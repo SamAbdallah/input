@@ -1,0 +1,51 @@
+html{
+    background-color: purple;
+    padding: 30px;
+}
+
+
+
+.container{
+    background-color: white;
+    margin-top: 10%;
+    padding: 15px;
+}
+
+
+
+
+
+
+   .form-row {
+     display: flex;
+   }
+   
+   .form-group {
+     padding: 5px;
+     width: 50%;
+   }
+   
+   .form-group input {
+     width: 50%;
+     border-radius: 10px;
+   }
+
+
+   .form-group2 {
+    padding: 5px;
+    width: 100%;
+  }
+
+ 
+  .form-group2 label {
+    border-radius: 10px;
+    margin-right: 20%;
+  }
+
+
+  .button{
+    width: 90%;
+    background-color:purple;
+    color: wheat;
+    font-size: xx-large;
+  }
